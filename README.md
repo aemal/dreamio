@@ -11,6 +11,12 @@ Dreamio is a Progressive Web App (PWA) that helps parents create and play person
 * **CI/CD:** Vercel’s built-in CI/CD pipeline
 * **Code Quality:** Husky pre-commit hooks for linting & type checking
 
+## Architecture
+
+![Dreamio Context Architecture Diagram](assets/Dreamio-Context.png)
+
+Excalidraw source: [assets/Dreamio.excalidraw](assets/Dreamio.excalidraw)
+
 ## Features
 
 * Story creation through text/voice prompts (ChatGPT-like interface)
